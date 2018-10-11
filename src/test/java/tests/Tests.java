@@ -24,7 +24,7 @@ public class Tests {
                 .sendKeys("forautotests");
 
        browser.findElement(By.cssSelector("input[id=login]")).click();
-       // "input[id=login]" - doesn't work, but simple "input[id=login]" is working.
+       // "input[id=login-form-submit]" - doesn't work, but simple "input[id=login]" is working.
 
 
 
