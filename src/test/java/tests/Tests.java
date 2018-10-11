@@ -30,7 +30,7 @@ public class Tests {
 
         //test 2
 
-        // у меня фейлится test 2 в самом начале. 
+        // у меня фейлится test 2 в самом начале.
 
         browser.findElement(By.cssSelector("input[id=create-menu]")).click();
 
@@ -53,6 +53,8 @@ public class Tests {
                 .sendKeys("example5");
 
         browser.findElement(By.cssSelector("input[id=create-issue-submit]")).click();
+
+        // как сделать проверку не знаю. 
 
 
 
