@@ -54,7 +54,7 @@ public class Tests {
 
         browser.findElement(By.cssSelector("input[id=create-issue-submit]")).click();
 
-        // как сделать проверку не знаю.
+        // как сделать проверку не знаю..
 
 
 
